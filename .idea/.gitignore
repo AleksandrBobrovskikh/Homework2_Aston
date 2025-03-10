@@ -16,5 +16,5 @@ target/
 *.ipr
 *.xml
 
-target/
+/target/classes/Main.class
 
