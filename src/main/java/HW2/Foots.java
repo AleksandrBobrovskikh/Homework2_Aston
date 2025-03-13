@@ -1,3 +1,5 @@
+package HW2;
+
 class Foots {
 
     public static String getAnimal(int num) throws FootException {
