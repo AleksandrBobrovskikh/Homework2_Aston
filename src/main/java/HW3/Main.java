@@ -12,7 +12,7 @@ public class Main {
         list.print();
         list.mergeSort();
         list.print();
-        list.print();
+        list.print() ;
 
     }
 }
